@@ -149,15 +149,15 @@ publications:
     title: <b>Publications (Journal)</b>
     intro: |
     papers:
-      - title: 5. (In press) Deep Interactive Learning-based ovarian cancer segmentation of HE-stained whole slide images to study morphological patterns of BRCA mutation (2022).</a>
+      - title: 5. (In press) Deep Interactive Learning-based ovarian cancer segmentation of HE-stained whole slide images to study morphological patterns of BRCA mutation (2022) 
         authors: Ho, D. J., Chui, M. H., Vanderbilt, C. M., <b>Jung, J.</b>, Robson, M. E., Park, C. S., and Fuchs, T. J.
         conference: Journal of Pathology Informatics
         
-      - title: 4.SportLight: statistically principled crowdsourcing method for sports highlight selection. (2022).</a>
+      - title: 4. SportLight: statistically principled crowdsourcing method for sports highlight selection (2022) <a href="https://link.springer.com/article/10.1007/s42952-021-00128-2" target="_blank"> <b>[link]</b> </a>
         authors: <b>Jung, J.</b>, Ha, S., Son, W., Lee, J., and Won, J. H.
         conference: Journal of the Korean Statistical Society, 1-22 
 
-      - title: 3. Style transfer strategy for developing a generalizable deep learning application in digital pathology (2021) <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
+      - title: 3. Style transfer strategy for developing a generalizable deep learning application in digital pathology (2021) <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260720316485" target="_blank"> <b>[link]</b> </a>
         authors: Shin, S., You, S., Jeon, H., <b>Jung, J.</b>, An, M., Park, R., and Roh, J.
         conference: Computer Methods and Programs in Biomedicine, 198, 105815. 
         
