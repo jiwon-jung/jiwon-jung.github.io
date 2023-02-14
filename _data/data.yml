@@ -90,42 +90,58 @@ research_experiences:
         <p> - Wrote undergraduate research reports on topics related to investigate the Monty Hall problem, random process, and computational Statistics in the Computational Statistics Lab.</p>   
        
        
+ 
+ 
+
 experiences:
-    - role: <b>Teaching Assistant</b>
-      time: Jan. 2021 - Present
-      company: <i>Lyles School of Civil Engineering, Purdue Univeristy</i>
-      details: |
-        <p> - Assist in preparing and teaching course material, answer questions, and mark assignments</p>
+    - role: <b>Instructor</b>
+      time: Spring 2023 - Present
+      company: <i>Statistics Dept., Purdue University</i>
+      details: | 
+        <p> - Lectured on elementary statistics as a graduate instructors to 60 undergraduate students</p> 
+        <p> - Covered inferential techniques and data analysis methods and taught \texttt{SPSS} usage as a statistical software </p>
         Course:
-          - CE 597 - Netowrk Models for Connected Autonomous Vehicles (Spring 2022, Fall 2021)
-          - CE 597 - Smart Logistics (Fall 2021, Graduate)
-          - CE 597 - Data Science for Smart Cities - CE597 (Spring 2021, Graduate), <a href="https://www.edx.org/course/data-science-for-smart-cities" target="_blank"> <b>[edX]</b> </a>
-
-    - role: <b>Lecturer, Introduction to Civil and Environmental Engineering</b>
-      time: Nov. 2019
-      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
-      details: |
-        <p> - Taught transportation engineering and trends of mobility services to 50 undergraduate students</p>
-        <p> - Covered areas of transportation engineering, status and issues of transportation in South Korea, future sustainable transportation systems, and transportation laws in South Korea</p>
-
-    - role: <b>Mentor, Youth Engineering Frontier Camp</b>
-      time: Aug. 2017, Feb. 2018
-      company: <i>College of Engineering, Seoul National University</i>
-      details: |
-        <p> - Taught traffic engineering and the basic theory of traffic flow to 10 high school students</p>
-        <p> - Advised students concerning preparing for admission to universities and consulted with the students about the difficulties they encountered in high school</p>
+          - STAT 301: Elementary Statistical Methods <a href="STAT_30100_2023_Syllabus_Traditional.pdf" target="_blank"> <b>[Syllabus]</b> </a>
 
     - role: <b>Teaching Assistant</b>
-      time: Sep. 2016 - Dec. 2017
-      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
+      time: Spring 2021 - Spring 2022
+      company: <i>Statistics Dept., Purdue University</i>
       details: |
-        <p> - Assisted in preparing and teaching course material for core subjects of transportation in undergraduate and graduate program, had office hours every week, answered questions in person, and marked assignments & exams</p>
-        <p> - Supervised undergraduate student’s projects in terms of analyzing smart-card data, implementing clustering algorithms, and visualizing GPS data</p>
-        Course:
-          - Sustainable Transportation Systems 		      (Fall 2017,   Undergraduate)
-          - Advanced Transportation Operation 		      (Spring 2017, Graduate)
-          - Leadership for Civil Engineers 		          (Spring 2017, Undergraduate)
-          - Introduction to Transportation Engineering 	  (Fall 2016,   Undergraduate)
+        <p> - Led three recitation classes; 20 undergraduate students per class</p>
+        <p> - Graded assignments and taught \texttt{Excel} and \texttt{R} analysis during weekly recitations </p>
+        Course: 
+           - STAT 303: Probability and Statistics for Business (Fall 2021 - Spring 2022) 
+           - STAT 511: Statistical Methods (Spring 2021)
+           - STAT 512: Applied Regression Analysis (Spring 2021)
+           
+    - role: <b>Teaching Assistant</b>
+      time: Spring 2017, Fall 2018
+      company: <i>College of Liberal Studies Dept., Seoul National University</i>
+      details: |
+        <p> - Led weekly discussion sessions and assisted on grading homework assignments and term papers</p>
+        <p> - Wrote \texttt{Python} code as course material</p>
+        Courses: 
+            - Selected Topics Seminar 2: Information Theory (Fall 2018)
+            - Selected Topics Seminar 1: Knowledge (Spring 2017)
+            
+    - role: <b>Teaching Assistant</b>
+      time: Fall 2017
+      company: <i>Statistics Dept., Seoul National University</i>
+      details: |
+        <p> - Conducted Q\&A session every week to assist students individually with course materials and graded homework assignments and term examinations </p> 
+        <p> - Lectured on text analysis part of the public class lecture using R </p>
+        Courses: 
+            - Statistics (Fall 2017)
+            - Big Data Special Course using R (Jan. 2016)
+            
+    - role: <b>Mentor</b>
+      time: Summer 2017
+      company: <i>Statistics Dept., Seoul National University</i>
+      details: |
+        <p> - Advised high school students on academics and future career concerns </p>
+        <p> - Supervised and mentored on students' team paper for selective topics in Mathematics and Statistics.</p>
+        Courses: 
+            - Science Camp for High school Students in College of Natural Science (Summer 2017)
 
 publications:
     title: <b>Publications (Journal)</b>
