@@ -149,23 +149,23 @@ publications:
     title: <b>Publications (Journal)</b>
     intro: |
     papers:
-      - title: 5. (In press) Deep Interactive Learning-based ovarian cancer segmentation of HE-stained whole slide images to study morphological patterns of BRCA mutation 
+      - title: 5. (In press) Deep Interactive Learning-based Ovarian Cancer Segmentation of HE-stained Whole Slide Images to Study Morphological Patterns of BRCA Mutation 
         authors: Ho, D. J., Chui, M. H., Vanderbilt, C. M., <b>Jung, J.</b>, Robson, M. E., Park, C. S., and Fuchs, T. J.
         conference: Journal of Pathology Informatics (2022) 
         
-      - title: 4. <i>SportLight:</i> statistically principled crowdsourcing method for sports highlight selection <a href="https://link.springer.com/article/10.1007/s42952-021-00128-2" target="_blank"> <b>[link]</b></a>
+      - title: 4. <i>SportLight:</i> Statistically Principled Crowdsourcing Method for Sports Highlight Selection <a href="https://link.springer.com/article/10.1007/s42952-021-00128-2" target="_blank"> <b>[link]</b></a>
         authors: <b>Jung, J.</b>, Ha, S., Son, W., Lee, J., and Won, J. H.
         conference: Journal of the Korean Statistical Society, 1-22. (2022) 
         
-      - title: 3. Style transfer strategy for developing a generalizable deep learning application in digital pathology <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260720316485" target="_blank"> <b>[link]</b></a>
+      - title: 3. Style Transfer Strategy for Developing a Generalizable Deep Learning Application in Digital Pathology <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260720316485" target="_blank"> <b>[link]</b></a>
         authors: Shin, S., You, S., Jeon, H., <b>Jung, J.</b>, An, M., Park, R., and Roh, J.
         conference: Computer Methods and Programs in Biomedicine, 198, 105815 (2021)
          
-      - title: 2. Immune checkpoint molecule V-set Ig domain-containing 4 (VSIG4) expression is associated with poor prognosis in advanced gastric cancer patients. <a href="https://journals.aai.org/jimmunol/article/204/1_Supplement/243.4/63441" target="_blank"> <b>[link]</b></a>
+      - title: 2. Immune Checkpoint Molecule V-set Ig Domain-containing 4 (VSIG4) Expression is Associated with Poor Prognosis in Advanced Gastric Cancer Patients. <a href="https://journals.aai.org/jimmunol/article/204/1_Supplement/243.4/63441" target="_blank"> <b>[link]</b></a>
         authors: Kim, S. W., Roh, J., <b>Jung, J.</b>, Pak, H. K., Lee, A. N., Park, Y. S., and Park, C. S. 
         conference: The Journal of Immunology, 204, 243.4-243.4 (2020)
         
-      - title: 1. Risk Stratification Using multivariable fractional polynomials in diffuse large B-cell lymphoma <a href="https://www.frontiersin.org/articles/10.3389/fonc.2020.00329/full" target="_blank"> <b>[link]</b></a>
+      - title: 1. Risk Stratification Using Multivariable Fractional Polynomials in Diffuse Large B-cell Lymphoma <a href="https://www.frontiersin.org/articles/10.3389/fonc.2020.00329/full" target="_blank"> <b>[link]</b></a>
         authors: Roh, J., <b>Jung, J.</b>, Lee, Y., Kim, S. W., Pak, H. K., Lee, A., and Park, C. S. 
         conference: Frontiers in oncology, 10, 329. (2020)
 
@@ -173,47 +173,18 @@ con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:
-      - title: (In review) Network Macroscopic Fundamental Diagram-Informed Graph Learning for Traffic State Imputation
-        authors: Jiawei Xue, <b>Eunhan Ka</b>, Yiheng Feng, Satish V. Ukkusuri
-        conference: 25th International Symposium on Transportation and Traffic Theory (ISTTT25), Ann Arbor, Michigan, United States (2024)
+      - title: 3. Modeling Functional Disability with Hawkes Process
+        authors: <b>Jung, J.</b>, Lee, K., and Xu, M. 
+        conference: Presented at Actuarial Research Conference, Urbana, IL, United States (2022)
 
-      - title: 9. A Cluster-Based Route Design of Multi-Capacity Vehicle in Large-Scale Demand Responsive Transport Service for the Disabled
-        authors: <b>Eunhan Ka</b>, Dongju Ka, Yeonwoo Jung, Chungwon Lee
-        conference: 99th Annual Meeting of the Transportation Research Board, Washington DC, United States (2020)
+      - title: 2. Modeling Functional Disability with Hawkes Process
+        authors: <b>Jung, J.</b>, Lee, K., and Xu, M. 
+        conference: Presented at Korean Statistical Society Summer Conference, Seoul, Korea (2022)
         
-      - title: 8. Analysis of Status in DRT Service for the Disabled in Seoul and Comparison Domestic and Foreign Cases
-        authors: <b>Eunhan Ka</b>, Doosun Hong, Yejin Na, Chungwon Lee
-        conference: International Conference for Road Engineers, South Korea (2018)
-        
-      - title: 7. Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport for the Disabled in Seoul Using Long Short-Term Memory (LSTM) Network
-        authors: Doosun Hong, <b>Eunhan Ka</b>, Sunghyun Ha, Chungwon Lee
-        conference: 78th Korean Society of Transportation Conference, South Korea (2018)
-        
-      - title: 6. Application of Deep Learning for Demand Forecasting of Call Taxi for the Handicapped in Seoul
-        authors: <b>Eunhan Ka</b>, Sunghyun Ha, Jooneui Hong, Chungwon Lee
-        conference: 77th Korean Society of Transportation Conference, South Korea (2017)
-        
-      - title: 5. A Preliminary Study of Comparison with Lane Changing Model Parameters in Merging Area between Normal and Raining Conditions
-        authors: <b>Eunhan Ka</b>, Sunho Kim, Jooneui Hong, Chungwon Lee
-        conference: 12th International Conference of Eastern Asia's Society for Transportation Studies (EASTS), Vietnam (2017)
-      
-      - title: 4. The Importance of Demand Prediction for Vehicle Relocation Strategy Development in One-way Car-sharing System
-        authors: <b>Eunhan Ka</b>, Dongjoon Woo, Chungwon Lee
-        conference: 3rd International Conference on Computational Science and Engineering, Vietnam (2016)
-        
-      - title: 3. An Estimation of Critical Gap for Gap Acceptance Model Applied to Lane Change of Surrounding Vehicles in Driving Simulator
-        authors: <b>Eunhan Ka</b>, Sunho Kim, Dongjoon Woo, Chungwon Lee
-        conference: 2016 Fall Korea Institute of ITS Conference, South Korea (2016)
-        
-      - title: 2. Comparison of Survival Model of Traffic Flow Deterioration due to Traffic Accident according to VDS Aggregation Level
-        authors: <b>Eunhan Ka</b>, Sanghyup Lee, Jaeyoung Lee, Chungwon Lee
-        conference: 75th Korean Society of Transportation Conference, South Korea (2016)
-        
-      - title: 1. Analysis of Traffic Flow Impacts of Highway Traffic Accidents Using Survival Analysis
-        authors: Sanghyup Lee, Hyunkyung Lee, Jaeyoung Lee, <b>Eunhan Ka</b>, Chungwon Lee
-        conference: 74th Korean Society of Transportation Conference, South Korea (2016)
-        
-
+      - title: 1. Abstract PO-079: Fused LASSO Application for Gastric Cancer Image Segmentation. <a href="https://aacrjournals.org/clincancerres/article/27/5_Supplement/PO-079/32813/Abstract-PO-079-Fused-LASSO-application-for" target="_blank"> <b>[link]</b></a>
+        authors: <b>Jung, J.</b>, Roh, J., and Park, C. S.
+        conference: Presented at American Association of Cancer Research, 27, PO-079, virtual (2021) 
+         
 awards:
     - role: Outstanding Paper Award
       time: Mar. 2018
