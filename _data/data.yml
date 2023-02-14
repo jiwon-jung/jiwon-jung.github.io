@@ -123,8 +123,8 @@ experiences:
         <p> - Led weekly discussion sessions and assisted on grading homework assignments and term papers</p>
         <p> - Wrote Python code as course material</p>
         Course: 
-            - Selected Topics Seminar 2: Information Theory (Fall 2018)
-            - Selected Topics Seminar 1: Knowledge (Spring 2017)
+           - Selected Topics Seminar 2: Information Theory (Fall 2018)
+           - Selected Topics Seminar 1: Knowledge (Spring 2017) 
             
     - role: <b>Teaching Assistant</b>
       time: Fall 2017
@@ -133,8 +133,8 @@ experiences:
         <p> - Conducted Q\&A session every week to assist students individually with course materials and graded homework assignments and term examinations </p> 
         <p> - Lectured on text analysis part of the public class lecture using R </p>
         Course: 
-            - Statistics (Fall 2017)
-            - Big Data Special Course using R (Jan. 2016)
+           - Statistics (Fall 2017)
+           - Big Data Special Course using R (Jan. 2016) 
             
     - role: <b>Mentor</b>
       time: Summer 2017
@@ -142,8 +142,8 @@ experiences:
       details: |
         <p> - Advised high school students on academics and future career concerns </p>
         <p> - Supervised and mentored on students' team paper for selective topics in Mathematics and Statistics.</p>
-        Courses: 
-            - Science Camp for High school Students in College of Natural Science (Summer 2017)
+        Course: 
+           - Science Camp for High school Students in College of Natural Science (Summer 2017)
 
 publications:
     title: <b>Publications (Journal)</b>
