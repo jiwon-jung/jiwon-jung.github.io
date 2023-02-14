@@ -181,12 +181,12 @@ con_publications:
         authors: <b>Jung, J.</b>, Lee, K., and Xu, M. 
         conference: Presented at Korean Statistical Society Summer Conference, Seoul, Korea (2022)
         
-      - title: 1. Abstract PO-079: Fused LASSO Application for Gastric Cancer Image Segmentation. <a href="https://aacrjournals.org/clincancerres/article/27/5_Supplement/PO-079/32813/Abstract-PO-079-Fused-LASSO-application-for" target="_blank"> <b>[link]</b></a>
+      - title: 1. Fused LASSO Application for Gastric Cancer Image Segmentation <a href="https://aacrjournals.org/clincancerres/article/27/5_Supplement/PO-079/32813/Abstract-PO-079-Fused-LASSO-application-for" target="_blank"> <b>[link]</b></a>
         authors: <b>Jung, J.</b>, Roh, J., and Park, C. S.
         conference: Presented at American Association of Cancer Research, 27, PO-079, virtual (2021) 
          
 awards:
-    - role: Outstanding Paper Award
+    - role: Travel Grant
       time: Mar. 2018
       company: <i>The 78th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
       details: |
