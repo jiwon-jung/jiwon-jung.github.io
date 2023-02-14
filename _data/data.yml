@@ -160,6 +160,14 @@ publications:
       - title: 3. Style transfer strategy for developing a generalizable deep learning application in digital pathology <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260720316485" target="_blank"> <b>[link]</b></a>
         authors: Shin, S., You, S., Jeon, H., <b>Jung, J.</b>, An, M., Park, R., and Roh, J.
         conference: Computer Methods and Programs in Biomedicine, 198, 105815 (2021)
+         
+      - title: 2. Immune checkpoint molecule V-set Ig domain-containing 4 (VSIG4) expression is associated with poor prognosis in advanced gastric cancer patients. <a href="https://journals.aai.org/jimmunol/article/204/1_Supplement/243.4/63441" target="_blank"> <b>[link]</b></a>
+        authors: Kim, S. W., Roh, J., <b>Jung, J.</b>, Pak, H. K., Lee, A. N., Park, Y. S., and Park, C. S. 
+        conference: The Journal of Immunology, 204, 243.4-243.4 (2020)
+        
+      - title: 1. Risk Stratification Using multivariable fractional polynomials in diffuse large B-cell lymphoma <a href="https://www.frontiersin.org/articles/10.3389/fonc.2020.00329/full" target="_blank"> <b>[link]</b></a>
+        authors: Roh, J., <b>Jung, J.</b>, Lee, Y., Kim, S. W., Pak, H. K., Lee, A., and Park, C. S. 
+        conference: Frontiers in oncology, 10, 329. (2020)
 
 con_publications:
     title: <b>Publications (Conference Proceeding)</b>
