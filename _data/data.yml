@@ -41,11 +41,13 @@ career-profile:
 education:
     - degree: <b>Purdue University</b>
       university: <i>Doctor of Philosophy, Department of Statistics</i>
-      time: Jan. 2021 - Present
+      time: Jan. 2021 - Present (Degree anticipated, May 2024)
     
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Department of Statistics</i>
       time: Feb. 2019
+      details: |
+        <p><b>Thesis Title:  SportLight: statistically principled crowdsourcing method for sports highlight selection.</b></p>
     
     - degree: <b>Seoul National University</b>
       university: <i>Bachelor of Science, Department of Statistics</i>
