@@ -8,19 +8,19 @@ sidebar:
 
     # Profile information
     name: Jiwon Jung
-    tagline: Ph.D. Student <a href="CV_Eunhan_Jan2023.pdf" target="_blank"> <b>[CV]</b> </a>
-    tagline2: Lyles School of Civil Engineering, <br> Purdue University
+    tagline: Ph.D. Student <a href="JiwonJung_CV_02142023.pdf" target="_blank"> <b>[CV]</b> </a>
+    tagline2: Department of Statistics, <br> Purdue University
     avatar: Profile_EH.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: kae@purdue.edu 
+    email: jung320@purdue.edu 
     phone: 
-    website: eunhanka.github.io #do not add http://
-    linkedin: eunhanka
-    github: eunhanka
+    website: jiwon-jung.github.io #do not add http://
+    linkedin: https://www.linkedin.com/in/jiwon-jung-178935183/
+    github: jiwon-jung
     gitlab:
     bitbucket:
-    twitter: '@EunhanKa'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
