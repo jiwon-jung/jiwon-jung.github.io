@@ -42,23 +42,18 @@ education:
     - degree: <b>Purdue University</b>
       university: <i>Doctor of Philosophy, Department of Statistics</i>
       time: Jan. 2021 - Present
-      details: |
-        <p>Courses: <br>
-        	Dynamic Transportation Models (CE597), Vehicular Cyber-Physical Systems (CE597), Probabilistic Machine Learning (CS592), Large-Scale Networks (ECE695), Optimization, "Optimization, Game Theory, and Uncertainty" (IE695), Statistical Machine Learning II (CS 690), Network Models for Connected Autonomous Vehicles (CE 597), Dynamic Programming (IE 633), Stochastic Networks (IE 590), Smart Logistics (CE 597), Optimization Methods for Systems And Control (ECE 580), Introduction To Deep Learning (ECE 595) </p>
-        
+    
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Department of Statistics</i>
       time: Feb. 2019
-      details: |
-        <p><b>Thesis Title: SportLight: statistically principled crowdsourcing method for sports highlight selection.</b></p>
-        <p>Courses: <br>
-        Advanced Transportation Operations (Traffic Flow Theory), Advanced Transportation Operations (Transportation Systems Analysis),
-        Advanced Sustainable Transportation (Traffic Management), Data Mining, Operations Research II,
-        Transportation Optimization Techniques, Transportation Network Theory, Transportation IT Convergence System</p>
-
+    
     - degree: <b>Seoul National University</b>
-      university: <i>Bachelor of Science, Department of Civil and Environmental Engineering</i>
-      time: Feb. 2016
+      university: <i>Bachelor of Science, Department of Statistics</i>
+      time: Feb. 2017
+      
+    - degree: <b>Seoul National University</b>
+      university: <i>Bachelor of Art, Department of Economics</i>
+      time: Feb. 2017
       
 
 research_experiences:
