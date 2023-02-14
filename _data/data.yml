@@ -101,7 +101,7 @@ experiences:
       company: <i>Statistics Dept., Purdue University</i>
       details: | 
         <p> - Lectured on elementary statistics as a graduate instructors to 60 undergraduate students</p> 
-        <p> - Covered inferential techniques and data analysis methods and taught \texttt{SPSS} usage as a statistical software </p>
+        <p> - Covered inferential techniques and data analysis methods and taught SPSS usage as a statistical software </p>
         Course:
           - STAT 301: Elementary Statistical Methods <a href="STAT_30100_2023_Syllabus_Traditional.pdf" target="_blank"> <b>[Syllabus]</b> </a>
 
@@ -110,7 +110,7 @@ experiences:
       company: <i>Statistics Dept., Purdue University</i>
       details: |
         <p> - Led three recitation classes; 20 undergraduate students per class</p>
-        <p> - Graded assignments and taught \texttt{Excel} and \texttt{R} analysis during weekly recitations </p>
+        <p> - Graded assignments and taught Excel and R analysis during weekly recitations </p>
         Course: 
            - STAT 303: Probability and Statistics for Business (Fall 2021 - Spring 2022) 
            - STAT 511: Statistical Methods (Spring 2021)
@@ -121,7 +121,7 @@ experiences:
       company: <i>College of Liberal Studies Dept., Seoul National University</i>
       details: |
         <p> - Led weekly discussion sessions and assisted on grading homework assignments and term papers</p>
-        <p> - Wrote \texttt{Python} code as course material</p>
+        <p> - Wrote Python code as course material</p>
         Courses: 
             - Selected Topics Seminar 2: Information Theory (Fall 2018)
             - Selected Topics Seminar 1: Knowledge (Spring 2017)
@@ -149,13 +149,17 @@ publications:
     title: <b>Publications (Journal)</b>
     intro: |
     papers:
-      - title: (In review) PIML-GBM &#58; A Physics-Informed Machine Learning for Estimating Traffic State with a Generalized Bathtub Model in Large-scale Urban Networks
-        authors: <b>Eunhan Ka</b>, Jiawei Xue, Ludovic Leclercq, Satish V. Ukkusuri
-        conference: Transportation Science
+      - title: 5. (In press) Deep Interactive Learning-based ovarian cancer segmentation of HE-stained whole slide images to study morphological patterns of BRCA mutation (2022).
+        authors: Ho, D. J., Chui, M. H., Vanderbilt, C. M., <b>Jung, J.</b>, Robson, M. E., Park, C. S., and Fuchs, T. J.
+        conference: Journal of Pathology Informatics
+        
+      - title: 4.SportLight: statistically principled crowdsourcing method for sports highlight selection. (2022).
+        authors: <b>Jung, J.</b>, Ha, S., Son, W., Lee, J., and Won, J. H.
+        conference: Journal of the Korean Statistical Society, 1-22 
 
-      - title: 3. <b>[2022 Editor's Choice Collections]</b> Leveraging Location-Based Data for Assessing Network-Level Traffic Impact of Lane Management &#58; A Case Study of Alex Fraser Bridge <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
-        authors: <b>Eunhan Ka</b>, Smita Sharma, Satish V. Ukkusuri
-        conference: Journal of Transportation Engineering, Part A &#58; Systems (2022)
+      - title: 3. Style transfer strategy for developing a generalizable deep learning application in digital pathology (2021) <a href="https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000760" target="_blank"> <b>[link]</b> </a>
+        authors: Shin, S., You, S., Jeon, H., <b>Jung, J.</b>, An, M., Park, R., and Roh, J.
+        conference: Computer Methods and Programs in Biomedicine, 198, 105815. 
         
       - title: 2. Implementing Surrogate Safety Measures in Driving Simulator and Evaluating the Safety Effects of Simulator-Based Training on Risky Driving Behaviors <a href="https://doi.org/10.1155/2020/7525721" target="_blank"> <b>[link]</b> </a>
         authors: <b>Eunhan Ka</b>, Do-gyeong Kim, Jooneui Hong, Chungwon Lee
