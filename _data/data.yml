@@ -41,7 +41,9 @@ career-profile:
 education:
     - degree: <b>Purdue University</b>
       university: <i>Doctor of Philosophy, Department of Statistics</i>
-      time: Jan. 2021 - Present (Degree anticipated, May 2024)
+      time: Jan. 2021 - Present  
+      details: |
+        <p><b>Degree anticipated, May 2024</b></p>
     
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Department of Statistics</i>
