@@ -122,7 +122,7 @@ experiences:
       details: |
         <p> - Led weekly discussion sessions and assisted on grading homework assignments and term papers</p>
         <p> - Wrote Python code as course material</p>
-        Courses: 
+        Course: 
             - Selected Topics Seminar 2: Information Theory (Fall 2018)
             - Selected Topics Seminar 1: Knowledge (Spring 2017)
             
@@ -132,7 +132,7 @@ experiences:
       details: |
         <p> - Conducted Q\&A session every week to assist students individually with course materials and graded homework assignments and term examinations </p> 
         <p> - Lectured on text analysis part of the public class lecture using R </p>
-        Courses: 
+        Course: 
             - Statistics (Fall 2017)
             - Big Data Special Course using R (Jan. 2016)
             
@@ -152,6 +152,7 @@ publications:
       - title: (In press) Deep Interactive Learning-based ovarian cancer segmentation of HE-stained whole slide images to study morphological patterns of BRCA mutation (2022) 
         authors: Ho, D. J., Chui, M. H., Vanderbilt, C. M., <b>Jung, J.</b>, Robson, M. E., Park, C. S., and Fuchs, T. J.
         conference: Journal of Pathology Informatics
+        
         
 
 con_publications:
