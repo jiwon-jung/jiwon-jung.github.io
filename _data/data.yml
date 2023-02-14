@@ -156,6 +156,10 @@ publications:
       - title: 4. <i>SportLight:</i> statistically principled crowdsourcing method for sports highlight selection <a href="https://link.springer.com/article/10.1007/s42952-021-00128-2" target="_blank"> <b>[link]</b></a>
         authors: <b>Jung, J.</b>, Ha, S., Son, W., Lee, J., and Won, J. H.
         conference: Journal of the Korean Statistical Society, 1-22. (2022) 
+        
+      - title: 3. Style transfer strategy for developing a generalizable deep learning application in digital pathology <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169260720316485" target="_blank"> <b>[link]</b></a>
+        authors: Shin, S., You, S., Jeon, H., <b>Jung, J.</b>, An, M., Park, R., and Roh, J.
+        conference: Computer Methods and Programs in Biomedicine, 198, 105815 (2021)
 
 con_publications:
     title: <b>Publications (Conference Proceeding)</b>
