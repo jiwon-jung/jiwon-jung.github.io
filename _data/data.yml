@@ -32,13 +32,12 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-      Jiwon Jung is a Ph.D. student in the <a href="https://www.stat.purdue.edu/" target="_blank"> <b>Department of Statistics</b></a> at Purdue University since January 2021. She is a member of the <a href="https://sites.google.com/view/purdue-dsf/home?_ga=2.140572466.1831218327.1676400951-544944181.1675815965&pli=1" target="_blank"> <b>Data Science in Finance Research Focus Group </b></a> and are advised by Dr. Kiseop Lee and Dr. Mengyi Xu.
-      Jiwon's research focuses on as follows:
+      Jiwon Jung is a Ph.D. student in the <a href="https://www.stat.purdue.edu/" target="_blank"> <b>Department of Statistics</b></a> at Purdue University since January 2021. She is a member of the <a href="https://sites.google.com/view/purdue-dsf/home?_ga=2.140572466.1831218327.1676400951-544944181.1675815965&pli=1" target="_blank"> <b>Data Science in Finance Research Focus Group </b></a> and are advised by Dr. Kiseop Lee and Dr. Mengyi Xu. Overall, my research interests lie at the intersection of statistics, data science, and finance, with a particular focus on using machine learning and other statistical methods to solve problems in various areas.
+      Now, Jiwon's research focuses on as follows:
          <p><b> - Quantitative Finance</b>: Modeling limit order book dynamics using machine learning; Analyzing lead-lag effects between intraday and overnight returns </p>
          <p><b> - Actuarial Science</b>: Modeling health transition intensities using a Hawkes process </p>
          <p><b> - Medical Data Analysis</b>: Identifying cancer regions in pathology images using a penalized segmentation approach </p>
-      Overall, my research interests lie at the intersection of statistics, data science, and finance, with a particular focus on using machine learning and other statistical methods to solve problems in various areas.
-
+      
 projects:
     title: <b>Upcoming Talks</b>
         
