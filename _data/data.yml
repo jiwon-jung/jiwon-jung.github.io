@@ -40,8 +40,9 @@ career-profile:
       She has also worked as a smart factory researcher at Vivity AI and LG CNS, and as a researcher on cancer imaging at Asan Medical Center.
       
 projects:
-    title: <b>Upcoming Talks</b>
-    intro: <b>Invited Talk at the AMS Sectional Meeting (2023) - AMS Special Session on Advances in Mathematical Finance and Optimization I</b> 
+    - title: <b>Upcoming Talks</b>
+      intro: <b>Invited Talk at the AMS Sectional Meeting (2023)  
+             AMS Special Session on Advances in Mathematical Finance and Optimization I</b> <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank"> A lead-lag analysis of intraday and overnight returns   </a> 
            
         
         
