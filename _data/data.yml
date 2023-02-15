@@ -32,7 +32,9 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-      I am a Ph.D. student in the <a href="https://www.stat.purdue.edu/" target="_blank"> <b>Department of Statistics</b></a> and <a href="https://sites.google.com/view/purdue-dsf/home?_ga=2.140572466.1831218327.1676400951-544944181.1675815965&pli=1" target="_blank"> <b>Data Science in Finance Research Focus Group </b></a> (advisor: Dr. Kiseop Lee and Dr. Mengyi Xu) at Purdue University since January 2021.  
+      I am a Ph.D. student in the <a href="https://www.stat.purdue.edu/" target="_blank"> <b>Department of Statistics</b></a> at Purdue University since January 2021.  
+      I am a member of the <a href="https://sites.google.com/view/purdue-dsf/home?_ga=2.140572466.1831218327.1676400951-544944181.1675815965&pli=1" target="_blank"> <b>Data Science in Finance Research Focus Group </b></a> and are advised by Dr. Kiseop Lee and Dr. Mengyi Xu.
+      My research focuses on several areas, including <b><p>Quantitative Finance</b></p>, <b><p>Actuarial Sciences</b></p>, and <b><p>Biomedical Data Analysis</b></p>. In the field of quantitative finance, I am currently working on modeling limit order book dynamics using machine learning and identifying lead-lag effects between intraday and overnight returns. I am also working on estimating health transition intensities using a Hawkes process in the area of actuarial sciences. Additionally, I studied on identifying cancer regions in pathology images using a penalized segmentation approach in medical data analysis.
       Overall, my research interests lie at the intersection of statistics, data science, and finance, with a particular focus on using machine learning and other statistical methods to solve problems in various areas.
      
 education:
