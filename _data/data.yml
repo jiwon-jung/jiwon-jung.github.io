@@ -37,7 +37,7 @@ career-profile:
          <p><b> - Quantitative Finance</b>: Modeling limit order book dynamics using machine learning; Analyzing lead-lag effects between intraday and overnight returns </p>
          <p><b> - Actuarial Science</b>: Modeling health transition intensities using a Hawkes process </p>
          <p><b> - Medical Data Analysis</b>: Identifying cancer regions in pathology images using a penalized segmentation approach </p>
-      Jiwon has also worked as a smart factory researcher at <a href=" https://vivity.ai/" target="_blank"> <p><b>Vivity AI</b></p></a> and LG CNS, and as a researcher on cancer imaging at Asan Medical Center.
+      Jiwon has also worked as a smart factory researcher at <a href=" https://vivity.ai/" target="_blank"><b>Vivity AI</b></a> and LG CNS, and as a researcher on cancer imaging at Asan Medical Center.
       
  
 projects:
@@ -191,13 +191,6 @@ con_publications:
         authors: <b>Jung, J.</b>, Roh, J., and Park, C. S.
         conference: Presented at American Association of Cancer Research, 27, PO-079, virtual (2021) 
 
-experiences:
-    title: <b>Presentataions</b>
-    info:
-      - role: Modeling Functional Disability with Hawkes Process
-        time: Presented at Actuarial Research Conference 2022
-        company: University of Illinois Urbana-Champaign, Champaign, IL, United States
-        details: |
           
        
 awards:
