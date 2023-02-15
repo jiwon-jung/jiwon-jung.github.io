@@ -223,10 +223,12 @@ skills:
         level: 95%
       - name: R
         level: 95%
-      - name: Excel, SPSS, SAS
+      - name: Excel/ SPSS 
         level: 90%
       - name: MATLAB
         level: 85%
+      - name: SAS
+        level: 75%
       - name: Julia 
         level: 75%
       - name: JAVA
