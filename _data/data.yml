@@ -189,8 +189,15 @@ con_publications:
     papers:        
       - title: 1. Fused LASSO Application for Gastric Cancer Image Segmentation <a href="https://aacrjournals.org/clincancerres/article/27/5_Supplement/PO-079/32813/Abstract-PO-079-Fused-LASSO-application-for" target="_blank"> <b>[link]</b></a>
         authors: <b>Jung, J.</b>, Roh, J., and Park, C. S.
-        conference: Presented at American Association of Cancer Research, 27, PO-079, virtual (2021) 
+        conference: American Association of Cancer Research, 27, PO-079, virtual (2021) 
 
+review_publications:
+    title: <b>Presentataions</b>
+    intro: |
+    papers:     
+      - title: Modeling Functional Disability with Hawkes Process
+        authors: Presented at Actuarial Research Conference 2022
+        conference: University of Illinois Urbana-Champaign, Champaign, IL, United States
           
        
 awards:
