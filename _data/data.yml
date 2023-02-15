@@ -37,10 +37,9 @@ career-profile:
          <p><b> - Quantitative Finance</b>: Modeling limit order book dynamics using machine learning; Analyzing lead-lag effects between intraday and overnight returns </p>
          <p><b> - Actuarial Science</b>: Modeling health transition intensities using a Hawkes process </p>
          <p><b> - Medical Data Analysis</b>: Identifying cancer regions in pathology images using a penalized segmentation approach </p>
-      Jiwon has also worked as a smart factory researcher at Vivity AI and LG CNS, and as a researcher on cancer imaging at Asan Medical Center.
+      Jiwon has also worked as a smart factory researcher at <a href=" https://vivity.ai/" target="_blank"> <p><b>Vivity AI</b></p></a> and LG CNS, and as a researcher on cancer imaging at Asan Medical Center.
       
-  
-
+ 
 projects:
     title: <b>Upcoming Talks</b>
     intro:   
@@ -49,7 +48,7 @@ projects:
         link: "#"
         tagline: "AMS Special Session on Advances in Mathematical Finance and Optimization I. (March 18, 2023, Georgia Institute of Technology, Atlanta, GA, U.S.)"
         
-      - title: Presentation at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"> <p><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></p></a>
+      - title: Invited Talk at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"> <p><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></p></a>
         link: "#"
         tagline: "MS48 Data Driven Methods in Finance - Part III of III (June 9, 2023, DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.)"
  
@@ -66,7 +65,7 @@ education:
       university: <i>Master of Science, Department of Statistics</i>
       time: Feb. 2019
       details: |
-        <p><b>Thesis Title:  SportLight: statistically principled crowdsourcing method for sports highlight selection.</b> (Advisor: Prof. Joong-ho Won) </p>
+        <p><b>Thesis Title:  SportLight: statistically principled crowdsourcing method for sports highlight selection. ( </b></p>
     
     - degree: <b>Seoul National University</b>
       university: <i>Bachelor of Science, Department of Statistics</i>
@@ -191,7 +190,16 @@ con_publications:
       - title: 1. Fused LASSO Application for Gastric Cancer Image Segmentation <a href="https://aacrjournals.org/clincancerres/article/27/5_Supplement/PO-079/32813/Abstract-PO-079-Fused-LASSO-application-for" target="_blank"> <b>[link]</b></a>
         authors: <b>Jung, J.</b>, Roh, J., and Park, C. S.
         conference: Presented at American Association of Cancer Research, 27, PO-079, virtual (2021) 
-         
+
+experiences:
+    title: <b>Presentataions</b>
+    info:
+      - role: Modeling Functional Disability with Hawkes Process
+        time: Presented at Actuarial Research Conference 2022
+        company: University of Illinois Urbana-Champaign, Champaign, IL, United States
+        details: |
+          
+       
 awards:
     - role: Travel Grant
       time: Fall 2022
