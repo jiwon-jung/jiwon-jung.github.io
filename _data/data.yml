@@ -219,10 +219,12 @@ awards:
 skills:
     title: <b>Programming Skills &amp; Proficiency</b>
     toolset:
-      - name: Python (w/ Tensorflow)
+      - name: Python (w/ Tensorflow and PyTorch)
         level: 95%
       - name: R
         level: 95%
+      - name: Excel, SPSS, SAS
+        level: 90%
       - name: MATLAB
         level: 85%
       - name: Julia 
@@ -232,6 +234,7 @@ skills:
       - name: JAVA
         level: 65%
        
+      
 
 footer: >
     Copyright (c) 2018 webjeda
