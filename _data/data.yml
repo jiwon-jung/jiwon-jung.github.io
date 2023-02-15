@@ -45,10 +45,15 @@ projects:
     title: Upcoming Talks
     intro:   
     assignments:
-      - title:  A lead-lag analysis of intraday and overnight returns 
-        link: <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank"> Invited Talk at the AMS Sectional Meeting (2023) </a>
+      - title: <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank"> A Lead-lag Analysis of Intraday and Overnight Returns  </a>
+        link: Invited Talk at the 2023 AMS Sectional Meeting
         tagline: "AMS Special Session on Advances in Mathematical Finance and Optimization I."
+        
+      - title: <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"> Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book </a>
+        link: 2023 SIAM Financial Mathematics and Engineering
+        tagline: "MS48 Data Driven Methods in Finance - Part III of III"
  
+
 
         
         
