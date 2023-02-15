@@ -195,11 +195,11 @@ review_publications:
     title: <b>Presentataions</b>
     intro: |
     papers:     
-      - title: Modeling Functional Disability with Hawkes Process
+      - title: 2. Modeling Functional Disability with Hawkes Process
         authors: Presented at Actuarial Research Conference 2022; University of Illinois Urbana-Champaign, Champaign, IL, United States
         conference: 
         
-      - title: Modeling Functional Disability with Hawkes Process
+      - title: 1. Modeling Functional Disability with Hawkes Process
         authors: Presented at Korean Statistical Society 2022 Summer Conference, Seoul, Korea 
         conference: 
           
