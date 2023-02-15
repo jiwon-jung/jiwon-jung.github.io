@@ -219,7 +219,7 @@ awards:
 skills:
     title: <b>Programming Skills &amp; Proficiency</b>
     toolset:
-      - name: Python (w/ Tensorflow and PyTorch)
+      - name: Python  
         level: 95%
       - name: R
         level: 95%
