@@ -42,7 +42,7 @@ career-profile:
   
 
 projects:
-    title: Upcoming Talks
+    title: <b>Upcoming Talks</b>
     intro:   
     assignments:
       - title: Invited Talk at the 2023 AMS Sectional Meeting, <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank"><b>Title: A Lead-lag Analysis of Intraday and Overnight Returns </b></a>
