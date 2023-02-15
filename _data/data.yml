@@ -41,9 +41,9 @@ career-profile:
       
 projects:
     title: <b>Upcoming Talks</b>
-    intro: ddd
-        
-        
+    intro: <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank"> <b>Invited Talk at AMS Sectional Meeting (2023)</b></a>
+    details: |
+        <p><b> Title: A lead-lag analysis of intraday and overnight returns</b></p>    
 education:
     - degree: <b>Purdue University</b>
       university: <i>Doctor of Philosophy, Department of Statistics</i>
