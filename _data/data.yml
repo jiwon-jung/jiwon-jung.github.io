@@ -187,42 +187,33 @@ con_publications:
          
 awards:
     - role: Travel Grant
-      time: Mar. 2018
-      company: <i>The 78th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
-      details: |
-        <p>Title: Selection of Appropriate Hyperparameter for Waiting Time Prediction Model for Demand Responsive Transport
-        for the Disabled in Seoul using Long Short-Term Memory (LSTM) Network</p>
-
-    - role: Lecture & Research Scholarship
-      time: Sep. 2016 - Feb. 2017
-      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
+      time: Fall 2022
+      company: <i>Graduate Women in Science Program, Purdue University</i>
+      details: | 
+      
+    - role: Emily and Paul Kidwell Graduate Student Excellent Award
+      time: Spring 2022
+      company: <i>Department of Statistics, Purdue University</i>
       details: |
 
-    - role: Brain Korea 21 Plus Scholarship
-      time: Mar. 2016 - Aug. 2016
-      company: <i>National Research Foundation of Korea</i>
+    - role: Graduate Student Presentation Award, 4th place
+      time: July 2022
+      company: <i>Korean Statistical Society</i>
       details: |
 
-    - role: Need-based Scholarship
-      time: Mar. 2016
-      company: <i>Department of Civil and Environmental Engineering, Seoul National University</i>
+    - role: Graduate Student Instructor Scholarship
+      time: Fall 2018
+      company: <i>Department of Statistics, Seoul National University</i>
 
-    - role: Outstanding Paper Award
-      time: Feb. 2016
-      company: <i>The 74th Conference of Korean Society of Transportation, Korea Society of Transportation</i>
-      details: |
-        <p>Title: Analysis of Traffic Flow Impacts of Highway Traffic Accidents Using Survival Analysis</p>
-
-    - role: Alumni Association Scholarship
-      time: Oct. 2015
-      company: <i>Alumni Association of Department of Civil Engineering, Seoul National University</i>
-      details: |
-
-    - role: Bronze Award
-      time: Jun. 2013
-      company: <i>The 6th Science and Technology Writing Excellent Research Paper Presentation Competition, College of Engineering, Seoul National University</i>
-      details: |
-        <p>Title: Estimation of Rainfall in Seoul using FARD2006</p>
+    - role: Academic Scholarship for Excellent Students
+      time: Fall 2018
+      company: <i>Department of Statistics, Seoul National University</i>
+      details: | 
+      
+    - role: Academic Scholarship for Excellent Students
+      time: Fall 2013 - Spring 2014
+      company: <i>College of Liberal Studies Dept., Seoul National University</i>
+      details: | 
         
         
 skills:
