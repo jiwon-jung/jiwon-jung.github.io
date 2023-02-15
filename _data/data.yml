@@ -220,13 +220,18 @@ skills:
     title: <b>Programming Skills &amp; Proficiency</b>
     toolset:
       - name: Python (w/ Tensorflow)
-        level: 90%
+        level: 95%
       - name: R
-        level: 85%
-      - name: Java (w/ CPLEX)
-        level: 75%
+        level: 95%
       - name: MATLAB
-        level: 70%
+        level: 85%
+      - name: Julia 
+        level: 75%
+      - name: C/C++ 
+        level: 65%
+      - name: JAVA
+        level: 65%
+       
 
 footer: >
     Copyright (c) 2018 webjeda
