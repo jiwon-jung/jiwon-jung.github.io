@@ -48,11 +48,11 @@ projects:
         link: "#"
         tagline: "AMS Special Session on Advances in Mathematical Finance and Optimization I. (March 18, 2023, Georgia Institute of Technology, Atlanta, GA, U.S.)"
       
-      - title: Lecture at the 2023 IPSS workshop, <a href="https://sites.google.com/view/purdue-dsf/ipss-workshop" target="_blank"> <p><b>"Limit Order Book Dynamics" </b></p></a>
+      - title: Lecture at the 2023 IPSS workshop, <a href="https://sites.google.com/view/purdue-dsf/ipss-workshop" target="_blank"><b>"Limit Order Book Dynamics" </b></a>
         link: "#"
         tagline: "Workshop 2: Data Driven Methods in Finance and Industries (June 6, 2023, TBA)"
     
-      - title: Invited Talk at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"> <p><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></p></a>
+      - title: Invited Talk at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></a>
         link: "#"
         tagline: "Minisymposium 48 Data Driven Methods in Finance - Part III of III (June 9, 2023, DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.)"
 
@@ -80,11 +80,9 @@ education:
       time: Feb. 2017
      
 oss:
-    title: OSS Contributions
+    title: <b>AI application to manufacturing industries</b> 
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Industrial AI consulting with <a href=" https://vivity.ai/" target="_blank"><b>Vivity AI</b></a>
     contributions:
       - title: Tempo
         link: "#"
