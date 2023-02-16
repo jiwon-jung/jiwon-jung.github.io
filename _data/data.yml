@@ -78,7 +78,18 @@ education:
     - degree: <b>Seoul National University</b>
       university: <i>Bachelor of Art, Department of Economics</i>
       time: Feb. 2017
-       
+     
+oss:
+    title: OSS Contributions
+    intro: >
+      You can list your open source software contributions in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        
 research_experiences:
     - role: <b>Data Analyst</b>
       time: Fall 2022 - Present
