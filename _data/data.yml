@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jiwon Jung
@@ -55,19 +55,18 @@ projects:
       - title: Invited Talk at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></a>
         link: "#"
         tagline: "Minisymposium 48 Data Driven Methods in Finance - Part III of III (June 9, 2023, DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.)"
-
  
         
 education:
     - degree: <b>Purdue University</b>
       university: <i>Doctor of Philosophy, Department of Statistics</i>
-      time: Jan. 2021 - Present (Degree anticipated, May 2024)
+      time: Jan. 2021 - Present  
       details: |
         <p><b>Degree anticipated, May 2024</b></p>
     
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Department of Statistics</i>
-      time: Mar. 2017 - Feb. 2019 <p>Thesis Title:  SportLight: statistically principled crowdsourcing method for sports highlight selection. (Advisor: Prof. Joong-Ho Won)</p>
+      time: Mar. 2017 - Feb. 2019  
       details: |
         <p><b>Thesis Title:  SportLight: statistically principled crowdsourcing method for sports highlight selection. (Advisor: Prof. Joong-Ho Won) </b></p>
     
