@@ -33,17 +33,7 @@ sidebar:
         - idiom: English
           level: Professional
           
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
-          link:
+    
 
 career-profile:
     title: <b>Biography</b>
@@ -78,13 +68,13 @@ education:
       university: <i>Doctor of Philosophy, Department of Statistics</i>
       time: Jan. 2021 - Present  
       details: |
-        <p><b>Degree anticipated, May 2024</b></p>
+        Degree anticipated, May 2024
     
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Department of Statistics</i>
       time: Mar. 2017 - Feb. 2019  
       details: |
-        <p>Thesis Title:  SportLight: statistically principled crowdsourcing method for sports highlight selection. (Advisor: Prof. Joong-Ho Won)</p>
+        Thesis Title:  SportLight: statistically principled crowdsourcing method for sports highlight selection. (Advisor: Prof. Joong-Ho Won)
     
     - degree: <b>Seoul National University</b>
       university: <i>Bachelor of Science, Department of Statistics</i>
