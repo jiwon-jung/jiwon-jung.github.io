@@ -37,7 +37,7 @@ career-profile:
       Her areas of interest include time series analysis using machine learning, modeling and prediction in finance, and applications of stochastic processes. In particular, her research focuses on as follows:
          <p><b> - Quantitative Finance</b>: Modeling limit order book dynamics using machine learning; Analyzing lead-lag effects between intraday and overnight returns </p>
          <p><b> - Actuarial Science</b>: Modeling health transition intensities using a Hawkes process </p>
-         <p><b> - Industrial AI</b>: Developing and implementing machine learning models to optimize production processes and improve product quality, inclduing automated inspection of defective products and real-time monitoring of production lines.  <br><i> Applications: a smart factory researcher at <a href=" https://vivity.ai/" target="_blank"><b>Vivity AI</b></a></i></p>
+         <p><b> - Industrial AI</b>: Developing and implementing machine learning models to optimize production processes and improve product quality, including automated inspection of defective products and real-time monitoring of production lines.  <br><i> Applications: a smart factory researcher at <a href=" https://vivity.ai/" target="_blank"><b>Vivity AI</b></a></i></p>
  
        
 projects:
@@ -79,19 +79,6 @@ education:
       university: <i>Bachelor of Art, Department of Economics</i>
       time: Feb. 2017
        
-oss:
-    title: AI application to manufacturing industries
-    intro: >
-      Industrial AI consulting
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
 research_experiences:
     - role: <b>Data Analyst</b>
       time: Fall 2022 - Present
