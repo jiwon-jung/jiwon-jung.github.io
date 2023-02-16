@@ -26,8 +26,12 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-      - idiom: Korean
+      title: Languages
+      info:
+        - idiom: Korean
+          level: Native
+        - idiom: English
+          level: Professional
 
 career-profile:
     title: <b>Biography</b>
