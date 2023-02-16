@@ -61,23 +61,23 @@ projects:
 education:
     - degree: <b>Purdue University</b>
       university: <i>Doctor of Philosophy, Department of Statistics</i>
-      time: Jan. 2021 - Present  
+      time: Jan. 2021 - Present (Degree anticipated, May 2024)
       details: |
         <p><b>Degree anticipated, May 2024</b></p>
     
     - degree: <b>Seoul National University</b>
       university: <i>Master of Science, Department of Statistics</i>
-      time: Feb. 2019
+      time: Mar. 2017 - Feb. 2019 <p>Thesis Title:  SportLight: statistically principled crowdsourcing method for sports highlight selection. (Advisor: Prof. Joong-Ho Won)</p>
       details: |
         <p><b>Thesis Title:  SportLight: statistically principled crowdsourcing method for sports highlight selection. (Advisor: Prof. Joong-Ho Won) </b></p>
     
     - degree: <b>Seoul National University</b>
       university: <i>Bachelor of Science, Department of Statistics</i>
-      time: Feb. 2017
+      time: Mar. 2013 - Feb. 2017
       
     - degree: <b>Seoul National University</b>
       university: <i>Bachelor of Art, Department of Economics</i>
-      time: Feb. 2017
+      time: Mar. 2013 - Feb. 2017
      
 oss:
     title: <b>AI application to manufacturing industries</b> 
