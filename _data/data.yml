@@ -33,13 +33,13 @@ career-profile:
     title: <b>Biography</b>
     summary: |
       Jiwon Jung is a Ph.D. student in the <a href="https://www.stat.purdue.edu/" target="_blank"> <b>Department of Statistics</b></a> at Purdue University since January 2021. She is a member of the <a href="https://sites.google.com/view/purdue-dsf/home?_ga=2.140572466.1831218327.1676400951-544944181.1675815965&pli=1" target="_blank"> <b>Data Science in Finance Research Focus Group </b></a> and are advised by Dr. Kiseop Lee and Dr. Mengyi Xu. 
-      She double majored in Economics and Statistics at Seoul National University and completed her Master's degree in Statistics from the same institution. Her areas of interest include time series analysis using machine learning, modeling and prediction in finance, and applications of stochastic analysis. In particular, her research focuses on as follows:
+      She double majored in Economics and Statistics at Seoul National University and completed her Master's degree in Statistics from the same institution. Prior to joining Purdue, she was a researcher at Asan Medical Center from 2019-2020, where my research focused on developing cancer imaging models.
+      Her areas of interest include time series analysis using machine learning, modeling and prediction in finance, and applications of stochastic processes. In particular, her research focuses on as follows:
          <p><b> - Quantitative Finance</b>: Modeling limit order book dynamics using machine learning; Analyzing lead-lag effects between intraday and overnight returns </p>
          <p><b> - Actuarial Science</b>: Modeling health transition intensities using a Hawkes process </p>
-         <p><b> - Medical Data Analysis</b>: Identifying cancer regions in pathology images using a penalized segmentation approach </p>
-      Jiwon has also worked as a smart factory researcher at <a href=" https://vivity.ai/" target="_blank"><b>Vivity AI</b></a> and LG CNS, and as a researcher on cancer imaging at Asan Medical Center.
-      
+         <p><b> - Industrial AI</b>: Developing and implementing machine learning models to optimize production processes and improve product quality, inclduing automated inspection of defective products and real-time monitoring of production lines.  <br><i> Applications: a smart factory researcher at <a href=" https://vivity.ai/" target="_blank"><b>Vivity AI</b></a></i></p>
  
+       
 projects:
     title: <b>Upcoming Talks</b>
     intro:   
@@ -78,7 +78,19 @@ education:
     - degree: <b>Seoul National University</b>
       university: <i>Bachelor of Art, Department of Economics</i>
       time: Feb. 2017
-      
+       
+oss:
+    title: AI application to manufacturing industries
+    intro: >
+      Industrial AI consulting
+    contributions:
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 research_experiences:
     - role: <b>Data Analyst</b>
