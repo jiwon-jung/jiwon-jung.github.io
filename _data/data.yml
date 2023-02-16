@@ -44,7 +44,7 @@ projects:
     title: <b>Upcoming Talks</b>
     intro:   
     assignments:
-      - title: Invited Talk at the 2023 AMS Sectional Meeting, <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank"> <p><b> "A Lead-lag Analysis of Intraday and Overnight Returns" </b></p></a>
+      - title: Invited Talk at the 2023 AMS Sectional Meeting, <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank"><b> "A Lead-lag Analysis of Intraday and Overnight Returns" </b></a>
         link: "#"
         tagline: "AMS Special Session on Advances in Mathematical Finance and Optimization I. (March 18, 2023, Georgia Institute of Technology, Atlanta, GA, U.S.)"
       
