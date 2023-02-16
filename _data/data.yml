@@ -199,7 +199,7 @@ con_publications:
     title: <b>Publications (Conference Proceeding)</b>
     intro: |
     papers:        
-      - title: 1. Fused LASSO Application for Gastric Cancer Image Segmentation <a href="https://aacrjournals.org/clincancerres/article/27/5_Supplement/PO-079/32813/Abstract-PO-079-Fused-LASSO-application-for" target="_blank"> <b>[link]</b></a>
+      - title: 1. <a href="https://aacrjournals.org/clincancerres/article/27/5_Supplement/PO-079/32813/Abstract-PO-079-Fused-LASSO-application-for" target="_blank">Fused LASSO Application for Gastric Cancer Image Segmentation</a>
         authors: <b>Jung, J.</b>, Roh, J., and Park, C. S.
         conference: American Association of Cancer Research, 27, PO-079, virtual (2021) 
 
