@@ -47,11 +47,15 @@ projects:
       - title: Invited Talk at the 2023 AMS Sectional Meeting, <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank"> <p><b> "A Lead-lag Analysis of Intraday and Overnight Returns" </b></p></a>
         link: "#"
         tagline: "AMS Special Session on Advances in Mathematical Finance and Optimization I. (March 18, 2023, Georgia Institute of Technology, Atlanta, GA, U.S.)"
-        
+      
+      - title: Lecture at the 2023 IPSS workshop, <a href="https://sites.google.com/view/purdue-dsf/ipss-workshop" target="_blank"> <p><b>"Limit Order Book Dynamics" </b></p></a>
+        link: "#"
+        tagline: "Workshop 2: Data Driven Methods in Finance and Industries (June 6, 2023, TBA)"
+    
       - title: Invited Talk at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"> <p><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></p></a>
         link: "#"
-        tagline: "MS48 Data Driven Methods in Finance - Part III of III (June 9, 2023, DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.)"
- 
+        tagline: "Minisymposium 48 Data Driven Methods in Finance - Part III of III (June 9, 2023, DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.)"
+
  
         
 education:
