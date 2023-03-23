@@ -50,10 +50,6 @@ projects:
     title: <b>Upcoming Talks</b>
     intro:   
     assignments:
-      - title: Invited Talk at the 2023 AMS Sectional Meeting, <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank"><b> "A Lead-lag Analysis of Intraday and Overnight Returns" </b></a>
-        link: "#"
-        tagline: "AMS Special Session on Advances in Mathematical Finance and Optimization I. (March 18, 2023, Georgia Institute of Technology, Atlanta, GA, U.S.)"
-      
       - title: Lecture at the 2023 IPSS workshop, <a href="https://sites.google.com/view/purdue-dsf/ipss-workshop" target="_blank"><b>"Limit Order Book Dynamics" </b></a>
         link: "#"
         tagline: "Workshop 2: Data Driven Methods in Finance and Industries (June 6, 2023, TBA)"
@@ -207,12 +203,16 @@ review_publications:
     title: <b>Presentataions</b>
     intro: |
     papers:     
+      - title: 3. A Lead-lag Analysis of Intraday and Overnight Returns
+        authors: Presented at American Mathematical Society (AMS) Sectional Meeting March 18, 2023; Georgia Institute of Technology, Atlanta, GA, U.S.
+        conference:
+         
       - title: 2. Modeling Functional Disability with Hawkes Process
-        authors: Presented at Actuarial Research Conference 2022; University of Illinois Urbana-Champaign, Champaign, IL, United States
+        authors: Presented at Actuarial Research Conference (ARC) 2022; University of Illinois Urbana-Champaign, Champaign, IL, U.S.
         conference: 
         
       - title: 1. Modeling Functional Disability with Hawkes Process
-        authors: Presented at Korean Statistical Society 2022 Summer Conference, Seoul, Korea 
+        authors: Presented at Korean Statistical Society (KSS) 2022 Summer Conference, Seoul, Korea 
         conference: 
           
        
