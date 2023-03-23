@@ -170,10 +170,10 @@ experiences:
 publications:
     title: <b>Publications (Journal)</b>
     intro: |
-    papers:
-      - title: 5. (In press) Deep Interactive Learning-based Ovarian Cancer Segmentation of HE-stained Whole Slide Images to Study Morphological Patterns of BRCA Mutation 
+    papers: 
+      - title: 5. Deep Interactive Learning-based Ovarian Cancer Segmentation of HE-stained Whole Slide Images to Study Morphological Patterns of BRCA Mutation 
         authors: Ho, D. J., Chui, M. H., Vanderbilt, C. M., <b>Jung, J.</b>, Robson, M. E., Park, C. S., and Fuchs, T. J.
-        conference: Journal of Pathology Informatics (2022) 
+        conference: Journal of Pathology Informatics, 14, 100160 (2023) 
         
       - title: 4. <a href="https://link.springer.com/article/10.1007/s42952-021-00128-2" target="_blank"><i>SportLight:</i> Statistically Principled Crowdsourcing Method for Sports Highlight Selection</a>
         authors: <b>Jung, J.</b>, Ha, S., Son, W., Lee, J., and Won, J. H.
@@ -202,10 +202,12 @@ con_publications:
 review_publications:
     title: <b>Presentataions</b>
     intro: |
-    papers:     
+    papers:        
+        # March 18, 2023
       - title: 3. A Lead-lag Analysis of Intraday and Overnight Returns
-        authors: Presented at American Mathematical Society (AMS) Sectional Meeting March 18, 2023; Georgia Institute of Technology, Atlanta, GA, U.S.
-        conference:
+        authors: Presented at American Mathematical Society (AMS) Sectional Meeting 2023; Georgia Institute of Technology, Atlanta, GA, U.S.
+        conference: 
+        
          
       - title: 2. Modeling Functional Disability with Hawkes Process
         authors: Presented at Actuarial Research Conference (ARC) 2022; University of Illinois Urbana-Champaign, Champaign, IL, U.S.
