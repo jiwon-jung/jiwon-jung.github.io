@@ -57,7 +57,10 @@ projects:
       - title: Invited Talk at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></a>
         link: "#"
         tagline: "Minisymposium 48 Data Driven Methods in Finance - Part III of III (June 9, 2023, DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.)"
- 
+      
+      - title: Invited Talk at the 2023 INFORMS Annual Meeting
+        link: "#"
+        tagline: "October, 2023, Phoenix, AZ, U.S."
         
 education:
     - degree: <b>Purdue University</b>
@@ -202,14 +205,14 @@ con_publications:
 review_publications:
     title: <b>Presentataions</b>
     intro: |
-    papers:        
+    papers:         
         # March 18, 2023
-      - title: 3. A Lead-lag Analysis of Intraday and Overnight Returns
+      - title: 3. <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank">A Lead-lag Analysis of Intraday and Overnight Returns</a>
         authors: Presented at American Mathematical Society (AMS) Sectional Meeting 2023; Georgia Institute of Technology, Atlanta, GA, U.S.
-        conference: 
+        conference: Invited talk at Special Session on Advances in Mathematical Finance and Optimization 
         
          
-      - title: 2. Modeling Functional Disability with Hawkes Process
+      - title: 2. <a href="https://publish.illinois.edu/arconf2022/program/" target="_blank">Modeling Functional Disability with Hawkes Process</a>
         authors: Presented at Actuarial Research Conference (ARC) 2022; University of Illinois Urbana-Champaign, Champaign, IL, U.S.
         conference: 
         
