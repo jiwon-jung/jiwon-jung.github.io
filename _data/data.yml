@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jiwon Jung
-    tagline: Ph.D. Student <a href="JiwonJung_CV_02142023.pdf" target="_blank"> <b>[CV]</b> </a>
+    tagline: Ph.D. Candidate <a href="JiwonJung_CV_02142023.pdf" target="_blank"> <b>[CV]</b> </a>
     tagline2: Department of Statistics, <br> Purdue University
     avatar: Profile_JW.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -38,7 +38,7 @@ sidebar:
 career-profile:
     title: <b>Biography</b>
     summary: |
-      Jiwon Jung is a Ph.D. student in the <a href="https://www.stat.purdue.edu/" target="_blank"> <b>Department of Statistics</b></a> at Purdue University since January 2021. She is a member of the <a href="https://sites.google.com/view/purdue-dsf/home?_ga=2.140572466.1831218327.1676400951-544944181.1675815965&pli=1" target="_blank"> <b>Data Science in Finance Research Focus Group </b></a> and are advised by <a href="https://www.stat.purdue.edu/~kiseop/" target="_blank"><b>Dr. Kiseop Lee</b></a> and <a href="https://sites.google.com/view/mxu/home?_ga=2.50296166.1710331856.1676529185-1031281822.1663908437" target="_blank"><b> Dr. Mengyi Xu</b></a>. 
+      Jiwon Jung is a Ph.D. candidate in the <a href="https://www.stat.purdue.edu/" target="_blank"> <b>Department of Statistics</b></a> at Purdue University since January 2021. She is a member of the <a href="https://sites.google.com/view/purdue-dsf/home?_ga=2.140572466.1831218327.1676400951-544944181.1675815965&pli=1" target="_blank"> <b>Data Science in Finance Research Focus Group </b></a> and are advised by <a href="https://www.stat.purdue.edu/~kiseop/" target="_blank"><b>Dr. Kiseop Lee</b></a> and <a href="https://sites.google.com/view/mxu/home?_ga=2.50296166.1710331856.1676529185-1031281822.1663908437" target="_blank"><b> Dr. Mengyi Xu</b></a>. 
       She double majored in Economics and Statistics at Seoul National University and completed her Master's degree in Statistics from the same institution. Prior to joining Purdue, she was a researcher at Asan Medical Center from 2019-2020, where my research focused on developing cancer imaging models. She is currently a smart factory researcher at <a href=" https://vivity.ai/" target="_blank"><b>Vivity AI</b></a> and contributing to industry-academy collaboration.
       Her areas of interest include time series analysis using machine learning, modeling and prediction in finance, and applications of stochastic processes. In particular, her research focuses on as follows:
          <p><b> - Quantitative Finance</b>: Modeling limit order book dynamics using machine learning; Analyzing lead-lag effects between intraday and overnight returns </p>
@@ -50,6 +50,9 @@ projects:
     title: <b>Upcoming Talks</b>
     intro:   
     assignments:
+      - title: Invited Talk at Ajou University WCU 10th year anniversary conference, <b>"Modeling Multi-state Health Transitions with Hawkes Processes" </b> 
+        link: "#"
+        tagline: "May 19, 2023, Suwon, Korea"
       - title: Lecture at the 2023 IPSS workshop, <a href="https://sites.google.com/view/purdue-dsf/ipss-workshop" target="_blank"><b>"Limit Order Book Dynamics" </b></a>
         link: "#"
         tagline: "Workshop 2: Data Driven Methods in Finance and Industries (June 6, 2023, TBA)"
