@@ -53,6 +53,7 @@ projects:
       - title: Invited Talk at Ajou University WCU 10th year anniversary conference, <b>"Modeling Multi-state Health Transitions with Hawkes Processes" </b> 
         link: "#"
         tagline: "May 19, 2023, Suwon, Korea"
+        
       - title: Lecture at the 2023 IPSS workshop, <a href="https://sites.google.com/view/purdue-dsf/ipss-workshop" target="_blank"><b>"Limit Order Book Dynamics" </b></a>
         link: "#"
         tagline: "Workshop 2: Data Driven Methods in Finance and Industries (June 6, 2023, TBA)"
@@ -60,6 +61,10 @@ projects:
       - title: Invited Talk at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></a>
         link: "#"
         tagline: "Minisymposium 48 Data Driven Methods in Finance - Part III of III (June 9, 2023, DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.)"
+      
+      - title: CEPAR International Conference, <b>"Modeling Multi-state Health Transitions with Hawkes Processes" </b> 
+        link: "#"
+        tagline: "July, 2023, Sydney, Australia"
       
       - title: Invited Talk at the 2023 INFORMS Annual Meeting, <b>"Modeling Multi-state Health Transitions with Hawkes Processes" </b> 
         link: "#"
