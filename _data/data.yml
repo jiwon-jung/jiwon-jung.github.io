@@ -207,8 +207,8 @@ review_publications:
     intro: |
     papers:         
       - title: 4. <a href="https://www.ajou.ac.kr/ns/board/notice.do?mode=view&articleNo=214556&article.offset=0&articleLimit=10" target="_blank">"Modeling Multi-state Health Transitions with Hawkes Processes"</a>
-        link: "#"
-        conference: Invited talk at Ajou University WCU 10th year anniversary conference; May 19, 2023; Ajou University, Suwon, Korea
+        authors: Presented at Ajou University WCU conference 2023; May 19, 2023; Ajou University, Suwon, Korea
+        conference: Invited talk at WCU 10th year anniversary conference
          
       - title: 3. <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank">A Lead-lag Analysis of Intraday and Overnight Returns</a>
         authors: Presented at American Mathematical Society (AMS) Sectional Meeting 2023; March 18, 2023; Georgia Institute of Technology, Atlanta, GA, U.S.
