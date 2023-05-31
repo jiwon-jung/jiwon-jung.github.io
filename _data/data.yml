@@ -50,14 +50,6 @@ projects:
     title: <b>Upcoming Talks</b>
     intro:   
     assignments:
-      - title: Invited Talk at Ajou University WCU 10th year anniversary conference, <b>"Modeling Multi-state Health Transitions with Hawkes Processes" </b> 
-        link: "#"
-        tagline: "May 19, 2023, Suwon, Korea"
-        
-      - title: Lecture at the 2023 IPSS workshop, <a href="https://sites.google.com/view/purdue-dsf/ipss-workshop" target="_blank"><b>"Limit Order Book Dynamics" </b></a>
-        link: "#"
-        tagline: "Workshop 2: Data Driven Methods in Finance and Industries (June 6, 2023, TBA)"
-    
       - title: Invited Talk at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></a>
         link: "#"
         tagline: "Minisymposium 48 Data Driven Methods in Finance - Part III of III (June 9, 2023, DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.)"
@@ -214,9 +206,12 @@ review_publications:
     title: <b>Presentataions</b>
     intro: |
     papers:         
-        # March 18, 2023
+      - title: 4. <a href="https://www.ajou.ac.kr/ns/board/notice.do?mode=view&articleNo=214556&article.offset=0&articleLimit=10" target="_blank">"Modeling Multi-state Health Transitions with Hawkes Processes"</a>
+        link: "#"
+        conference: Invited talk at Ajou University WCU 10th year anniversary conference; May 19, 2023; Ajou University, Suwon, Korea
+         
       - title: 3. <a href="https://meetings.ams.org/math/spring2023se/meetingapp.cgi/Paper/23209" target="_blank">A Lead-lag Analysis of Intraday and Overnight Returns</a>
-        authors: Presented at American Mathematical Society (AMS) Sectional Meeting 2023; Georgia Institute of Technology, Atlanta, GA, U.S.
+        authors: Presented at American Mathematical Society (AMS) Sectional Meeting 2023; March 18, 2023; Georgia Institute of Technology, Atlanta, GA, U.S.
         conference: Invited talk at Special Session on Advances in Mathematical Finance and Optimization 
         
          
