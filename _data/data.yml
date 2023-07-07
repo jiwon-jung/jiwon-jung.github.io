@@ -50,14 +50,6 @@ projects:
     title: <b>Upcoming Talks</b>
     intro:   
     assignments:
-      - title: Invited Talk at the 2023 SIAM Financial Mathematics and Engineering, <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank"><b>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </b></a>
-        link: "#"
-        tagline: "Minisymposium 48 Data Driven Methods in Finance - Part III of III (June 9, 2023, DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.)"
-      
-      - title: CEPAR International Conference, <b>"Modeling Multi-state Health Transitions with Hawkes Processes" </b> 
-        link: "#"
-        tagline: "July, 2023, Sydney, Australia"
-      
       - title: Invited Talk at the 2023 INFORMS Annual Meeting, <b>"Modeling Multi-state Health Transitions with Hawkes Processes" </b> 
         link: "#"
         tagline: "October, 2023, Phoenix, AZ, U.S."
@@ -206,6 +198,15 @@ review_publications:
     title: <b>Presentataions</b>
     intro: |
     papers:         
+      
+      - title: 6. <a href="https://cepar.edu.au/sites/default/files/CEPAR-International-Conference-Program_15.pdf" target="_blank">"Modeling Multi-state Health Transitions with Hawkes Processes"</a> 
+        authors: Presented at CEPAR International Conference 2023; July 5, 2023; UNSW, Sydney, Australia
+        conference: 
+        
+      - title: 5. <a href="https://meetings.siam.org/sess/dsp_talk.cfm?p=127860" target="_blank">"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book"</a>
+        authors: Presented at SIAM Financial Mathematics and Enginering 2023; June 9, 2023; DoubleTree by Hilton Philadelphia Center City, Philadelphia, PA, U.S.
+        conference: Invited Talk at SIAM FM23 Minisymposium 48 Data Driven Methods in Finance - Part III of III 2023 
+      
       - title: 4. <a href="https://www.ajou.ac.kr/ns/board/notice.do?mode=view&articleNo=214556&article.offset=0&articleLimit=10" target="_blank">"Modeling Multi-state Health Transitions with Hawkes Processes"</a>
         authors: Presented at Ajou University WCU conference 2023; May 19, 2023; Ajou University, Suwon, Korea
         conference: Invited talk at WCU 10th year anniversary conference
