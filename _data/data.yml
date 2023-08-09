@@ -84,34 +84,6 @@ oss:
         link:  
         tagline: "industry–academic collaboration"
         
-research_experiences:
-    
-    - role: <b>Research Assistant</b>
-      time: 2019 - 2020
-      company: <i>Asan Medical Center, Seoul, Korea</i>
-      details: |
-        <p> - Conducted cancer research in the department of Pathology, Asan Institute for Life Science</p> 
-        
-    - role: <b>Research Assistant</b>
-      time: 2019 - 2020
-      company: <i>Ajou University Medical Center, Suwon, Korea</i>
-      details: |
-        <p> - Proposed deep learning algorithms for classification and segmentation tasks in pathology image analysis</p> 
-        
-    - role: <b>Research Intern</b>
-      time: Winter 2018 
-      company: <i>LG CNS, Seoul, Korea</i>
-      details: |
-        <p> - Analyzed LG Innotek battery production data to address a defect identification problem under class imbalance during Smart IT internship in AI&Big Data department.</p>   
-       
-    - role: <b>Research Intern</b>
-      time: 2015 - 2016
-      company: <i>Seoul National University, Seoul, Korea</i>
-      details: |
-        <p> - Wrote undergraduate research reports on topics related to investigate the Monty Hall problem, random process, and computational Statistics in the Computational Statistics Lab.</p>   
-       
-       
-
 experiences:
     - role: <b>Instructor</b>
       time: Spring 2023 - Present
