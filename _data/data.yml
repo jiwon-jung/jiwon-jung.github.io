@@ -50,9 +50,12 @@ projects:
     title: <b>Upcoming Talks</b>
     intro:   
     assignments:
-      - title: Invited Talk at the 2023 INFORMS Annual Meeting, <b>"Modeling Multi-state Health Transitions with Hawkes Processes" </b> 
+      - title: Invited Talk at 2023 INFORMS Annual Meeting, <a href="https://3449182.fs1.hubspotusercontent-na1.net/hubfs/3449182/2023_INFORMS_Annual_Meeting_Program-1.pdf?__hstc=194041586.b2c3dfe46138729cdb5800c6648f4a13.1687297836120.1694317856145.1697229004581.7&__hssc=194041586.1.1697229004581&__hsfp=1211446396&hsCtaTracking=bf474905-597a-4bf3-beb6-2b12df475c87%7Ca331e204-a936-4461-9e24-39b1ca5c83b1" target="_blank">"Modeling Multi-state Health Transitions with Hawkes Processes" </a> 
         link: "#"
-        tagline: "October, 2023, Phoenix, AZ, U.S."
+        tagline: "October 15, 2023, Phoenix, AZ, U.S."
+      - title: Invited Talk at 2023 SKKU-KAFE conference, <a>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </a> 
+        link: "#"
+        tagline: "October 25, 2023,  (Online)" 
         
 education:
     - degree: <b>Purdue University</b>
