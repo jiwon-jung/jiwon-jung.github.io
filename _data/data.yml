@@ -50,12 +50,9 @@ projects:
     title: <b>Upcoming Talks</b>
     intro:   
     assignments:
-      - title: Invited Talk at 2023 INFORMS Annual Meeting, <a href="https://3449182.fs1.hubspotusercontent-na1.net/hubfs/3449182/2023_INFORMS_Annual_Meeting_Program-1.pdf?__hstc=194041586.b2c3dfe46138729cdb5800c6648f4a13.1687297836120.1694317856145.1697229004581.7&__hssc=194041586.1.1697229004581&__hsfp=1211446396&hsCtaTracking=bf474905-597a-4bf3-beb6-2b12df475c87%7Ca331e204-a936-4461-9e24-39b1ca5c83b1" target="_blank">"Modeling Multi-state Health Transitions with Hawkes Processes" </a> 
+      - title: Invited Talk at 2024 AMS Sectional Meeting, <a>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </a> 
         link: "#"
-        tagline: "October 15, 2023, Phoenix, AZ, U.S."
-      - title: Invited Talk at 2023 SKKU-KAFE conference, <a>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </a> 
-        link: "#"
-        tagline: "October 25, 2023,  (Online)" 
+        tagline: "Apr 21, 2024, Milwaukee, WI, U.S." 
         
 education:
     - degree: <b>Purdue University</b>
@@ -78,14 +75,14 @@ education:
       university: <i>Bachelor of Art, Department of Economics</i>
       time: Mar. 2013 - Feb. 2017
      
-oss:
-    title: <b>AI application to manufacturing industries</b> 
-    intro: >
-      Industrial AI consulting with <a href=" https://vivity.ai/" target="_blank"><b>Vivity AI</b></a> as a <b>Data Analyst</b> (Fall 2022 - Present)
-    contributions:
-      - title: Develop AI predictive models to improve the quality of smart factory manufacturing system of Shilla corporation
-        link:  
-        tagline: "industry–academic collaboration"
+# oss:
+#     title: <b>AI application to manufacturing industries</b> 
+#     intro: >
+#       Industrial AI consulting with <a href=" https://vivity.ai/" target="_blank"><b>Vivity AI</b></a> as a <b>Data Analyst</b> (Fall 2022 - Present)
+#     contributions:
+#       - title: Develop AI predictive models to improve the quality of smart factory manufacturing system of Shilla corporation
+#         link:  
+#         tagline: "industry–academic collaboration"
         
 experiences:
     - role: <b>Instructor</b>
@@ -172,7 +169,14 @@ con_publications:
 review_publications:
     title: <b>Presentataions</b>
     intro: |
-    papers:         
+    papers:        
+      - title: 8. <a>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </a> 
+        authors: Invited Talk at 2023 SKKU-KAFE conference; October 25, 2023 (Online)
+        conference: 
+        
+      - title: 7. <a href="https://3449182.fs1.hubspotusercontent-na1.net/hubfs/3449182/2023_INFORMS_Annual_Meeting_Program-1.pdf?__hstc=194041586.b2c3dfe46138729cdb5800c6648f4a13.1687297836120.1694317856145.1697229004581.7&__hssc=194041586.1.1697229004581&__hsfp=1211446396&hsCtaTracking=bf474905-597a-4bf3-beb6-2b12df475c87%7Ca331e204-a936-4461-9e24-39b1ca5c83b1" target="_blank">"Modeling Multi-state Health Transitions with Hawkes Processes" </a> 
+        authors: Invited Talk at 2023 INFORMS Annual Meeting
+        conference: October 15, 2023, Phoenix, AZ, U.S.
       
       - title: 6. <a href="https://cepar.edu.au/sites/default/files/CEPAR-International-Conference-Program_15.pdf" target="_blank">"Modeling Multi-state Health Transitions with Hawkes Processes"</a> 
         authors: Presented at CEPAR International Conference 2023; July 5, 2023; UNSW, Sydney, Australia
