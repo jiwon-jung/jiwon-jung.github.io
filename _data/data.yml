@@ -89,7 +89,7 @@ experiences:
       time: Spring 2023 - Present
       company: <i>Statistics Dept., Purdue University</i>
       details: | 
-        <p> - Lectured on elementary statistics as a graduate instructors to 60 undergraduate students</p> 
+        <p> - Lectured on elementary statistics as a graduate instructor to 60 undergraduate students</p> 
         <p> - Covered inferential techniques and data analysis methods and taught SPSS usage as a statistical software </p>
         Course:
           - STAT 301: Elementary Statistical Methods <a href="STAT_30100_2023_Syllabus_Traditional.pdf" target="_blank"> <b>[Syllabus]</b> </a>
@@ -167,7 +167,7 @@ con_publications:
         conference: American Association of Cancer Research, 27, PO-079, virtual (2021) 
 
 review_publications:
-    title: <b>Presentataions</b>
+    title: <b>Presentations</b>
     intro: |
     papers:        
       - title: 8. <a>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </a> 
