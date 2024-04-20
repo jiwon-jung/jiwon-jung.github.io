@@ -50,7 +50,7 @@ projects:
     title: <b>Upcoming Talks</b>
     intro:   
     assignments:
-      - title: Invited Talk at 2024 AMS Sectional Meeting, <a>"Attention-Based Reading, Highlighting, and Forecasting of the Limit Order Book" </a> 
+      - title: Invited Talk at 2024 AMS Sectional Meeting, <a>"Modeling multi-state health transitions with a self-exciting process" </a> 
         link: "#"
         tagline: "Apr 21, 2024, Milwaukee, WI, U.S." 
         
