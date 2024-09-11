@@ -6,11 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+======
+* <a href="files/CV.pdf">Download</a>
 
 {% include base_path %}
 
-======
-* <a href="files/CV.pdf">Download</a>
 
 Education
 ======
