@@ -1,5 +1,6 @@
 ---
 title: "SportLight: statistically principled crowdsourcing method for sports highlight selection"
+authors: "Jiwon Jung, Seyong Ha, Won Son, Joonhwan Lee, Joong-Ho Won (2022). "
 collection: publications
 category: manuscripts  
 date: 2022-03-01
