@@ -3,7 +3,7 @@ title: "Attention-Based Reading, Highlighting, and Forecasting of the Limit Orde
 collection: publications
 category: preprints  
 date: 2024-09-03
-venue: 'arXiv 2409.02277' 
+venue: 'arXiv' 
 paperurl: 'https://arxiv.org/abs/2409.02277' 
 ---
  
