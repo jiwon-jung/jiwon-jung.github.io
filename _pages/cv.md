@@ -18,7 +18,7 @@ Education
 * B.S. in Statistics, Seoul National University, 2013-2017
 * B.A. in Economics, Seoul National University, 2013-2017
 
-Work experience
+Professional experience
 ======
 * VivityAI: Fall 2022 - Present
   * Data Analyst — Seoul, Korea (remote)
