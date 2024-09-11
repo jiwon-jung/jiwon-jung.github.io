@@ -13,26 +13,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Purdue University, 2021-2024 (expected)
+* M.S. in Statistics, Seoul National University, 2017-2019
+* B.S. in Statistics, Seoul National University, 2013-2017
+* B.A. in Economics, Seoul National University, 2013-2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* VivityAI: Fall 2022 - Present
+  * Data Analyst — Seoul, Korea (remote)
+  * Duties includes: Develop AI predictive models to improve the quality of smart factory manufacturing system (academia-industry collaboration)
+  * Supervisor: Prof. Kiseop Lee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Asan Medical Center: 2019 - 2020
+  * Research Assistant — Seoul, Korea
+  * Duties included: Proposed efficient deep learning algorithms for classification and segmentation tasks in pathology image analysis
+  * Supervisor: Prof. Chan-sik Park and Prof. Jin Roh
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* LG CNS: Winter 2018
+  * Smart Factory Intern — Seoul, Korea
+  * Duties included: Analyzed LG Innotek battery production data to address a defect identification problem under class imbalance during Smart IT internship in AI&Big Data department
+ 
+
+ 
+
+
+
   
 Skills
 ======
