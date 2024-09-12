@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p><i>{{ post.venue }}</i>, {{ post.date }} </p>
+          <p><i>{{ post.venue }}</i>, {{ post.period }} </p>
         {% elsif post.collection == 'publications' and post.category == 'manuscripts' %}
 <!--           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
           <p>{{ post.authors }} Published in <i>{{ post.venue }}</i> </p>
