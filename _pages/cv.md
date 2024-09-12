@@ -34,7 +34,8 @@ Professional experience
   * Smart Factory Intern — Seoul, Korea
   * Duties included: Analyzed LG Innotek battery production data to address a defect identification problem under class imbalance during Smart IT internship in AI&Big Data department
 
- 
+<!---
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -52,6 +53,9 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+-->
   
 Service and leadership
 ======
