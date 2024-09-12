@@ -1,11 +1,10 @@
 ---
 title: "Instructor"
 collection: teaching
-permalink: /teaching/teaching-instructor
+permalink: /teaching/teaching-ta2
 venue: "Purdue University, Department of Statistics"  
 period: "Spring 2023 - Present" 
-syllabus: "http://jiwon-jung.github.io/files/stat301_syllabus.pdf"
-date: "2023-01-01"
+syllabus: "http://jiwon-jung.github.io/files/stat301_syllabus.pdf" 
 ---
 
 * STAT 301: Elementary Statistical Methods
