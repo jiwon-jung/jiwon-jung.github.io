@@ -5,6 +5,7 @@ permalink: /teaching/teaching-instructor
 venue: "Purdue University, Department of Statistics"  
 period: "Spring 2023 - Present" 
 syllabus: "http://jiwon-jung.github.io/files/stat301_syllabus.pdf"
+date: "2023-01-01"
 ---
 
 * STAT 301: Elementary Statistical Methods
