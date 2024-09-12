@@ -2,7 +2,8 @@
 title: "Instructor"
 collection: teaching
 permalink: /teaching/teaching-stat301
-venue: "Purdue University, Department of Statistics" 
+venue: "Purdue University, Department of Statistics"  
+period: "Spring 2023 - Present" 
 ---
 
 * STAT 301: Elementary Statistical Methods
