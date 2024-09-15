@@ -61,20 +61,13 @@ Teaching
 Honors and Awards
 ======
 * Academic Honors
-  * Department nomination of IBM PhD Fellowship Awards (pending) August 2024
-  * Outstanding Teaching Award for Teaching Assistant, Purdue University April 2024
-  * Recognition Award for Efficiency Improvements, Purdue University April 2024
-  * 4th place, Graduate Student Presentation Award, Korean Statistical Society July 2022
-  * Graduate Student Instructor scholarship, Seoul National University Fall 2018
-  * Academic Scholarship for Excellent Students
-    * Statistics Dept., Seoul National University Fall 2018
-    * College of Liberal Studies Dept., Seoul National University Fall 2013-Spring 2014
+  * Department nomination of IBM PhD Fellowship Awards (pending; August 2024)
+  * Outstanding Teaching Award for Teaching Assistant, Purdue University (April 2024)
+  * Recognition Award for Efficiency Improvements, Purdue University (April 2024)
+  * Graduate Student Instructor scholarship, Seoul National University (Fall 2018)
+  * Academic Scholarship for Excellent Students (2013-2014, 2018) 
 * Travel Grants
-  * JSM 2024 by American Statistical Association (ASA) August 2024
-  * CEPAR 2023 July 2023
-  * Society for Industrial and Applied Mathematics (SIAM) June 2023
-  * Graduate Women in Science Program, Purdue University Fall 2022
-  * Emily and Paul Kidwell Graduate Student Excellent Award, Purdue University Spring 2022
+  * ASA 2024, CEPAR 2023, SIAM 2023, WISP 2022, Emily and Paul Kidwell Graduate Student Excellent Award 2022
  
 Service and leadership
 ======
