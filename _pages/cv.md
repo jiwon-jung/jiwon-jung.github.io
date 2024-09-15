@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
  
-* <a href="http://jiwon-jung.github.io/files/CV.pdf">Download</a>
+* <a href="http://jiwon-jung.github.io/files/CV.pdf">[Download CV]</a>
 
 Education
 ======
