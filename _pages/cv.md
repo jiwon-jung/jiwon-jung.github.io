@@ -13,14 +13,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics, Purdue University, 2021-2024 (expected)
+* Ph.D in Statistics, Purdue University, 2021-2024
 * M.S. in Statistics, Seoul National University, 2017-2019
 * B.S. in Statistics, Seoul National University, 2013-2017
 * B.A. in Economics, Seoul National University, 2013-2017
 
 Professional experience
 ======
-* VivityAI: Fall 2022 - Present
+* VivityAI: 2022 - 2024
   * Data Analyst — Seoul, Korea (remote)
   * Duties includes: Develop AI predictive models to improve the quality of smart factory manufacturing system (academia-industry collaboration)
   * Supervisor: Prof. Kiseop Lee
