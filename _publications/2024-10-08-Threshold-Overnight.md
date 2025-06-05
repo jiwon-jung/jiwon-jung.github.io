@@ -4,7 +4,7 @@ authors: "Jiwon Jung, Kiseop Lee, Tim Leung (2024). "
 collection: publications
 category: preprints  
 date: 2024-10-08
-venue: 'Accepted at Investment Analysts Journal' 
+venue: 'at SSRN and Accepted at Investment Analysts Journal' 
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4946188' 
 ---
  
