@@ -4,7 +4,7 @@ authors: "Jiwon Jung, Kiseop Lee (2024). "
 collection: publications
 category: preprints  
 date: 2024-09-03
-venue: 'arXiv' 
+venue: 'arXiv:2409.02277' 
 paperurl: 'https://arxiv.org/abs/2409.02277' 
 ---
  
