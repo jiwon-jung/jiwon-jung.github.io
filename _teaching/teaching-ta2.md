@@ -6,6 +6,7 @@ venue: "Purdue University, Department of Statistics"
 period: "" 
 syllabus: "http://jiwon-jung.github.io/files/stat301_syllabus.pdf" 
 ---
+
 * STAT 517: Statistical Inference (Summer 2025)
   * Delivered an online graduate course to 60 students
     
