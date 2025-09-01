@@ -3,7 +3,6 @@ title: "Instructor"
 collection: teaching
 permalink: /teaching/teaching-ta2
 venue: "Purdue University, Department of Statistics"  
-period: "" 
 syllabus: "http://jiwon-jung.github.io/files/stat301_syllabus.pdf" 
 ---
 
