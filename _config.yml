@@ -24,11 +24,11 @@ author:
   avatar           : "profile.png"
   name             : "Jiwon Jung"
   pronouns         : "she/her"  
-  bio              : "Ph.D. in Statistics, Purdue University "
-  location         : "150 N University St, West Lafayette, IN 47907"
-  employer         : "Purdue University"
+  bio              : "Ph.D. in Statistics"
+  location         : "4182 W Stevens Wy NE, Seattle, WA 98105"
+  employer         : "University of Washington"
   uri              : # URL
-  email            : "jung320@purdue.edu" 
+  email            : "jung320@uw.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
