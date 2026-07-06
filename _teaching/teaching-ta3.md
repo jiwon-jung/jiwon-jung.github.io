@@ -1,5 +1,5 @@
 ---
-title: "Instructor, Applied Mathematics"
+title: "Applied Mathematics Instructor"
 collection: teaching
 permalink: /teaching/teaching-ta3
 venue: "University of Washington, Department of Applied Mathematics"   
