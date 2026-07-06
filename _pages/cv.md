@@ -41,7 +41,8 @@ Professional experience
 * LG CNS: Winter 2018
   * Smart Factory Intern — Seoul, Korea
   * Duties include: Analyzed LG Innotek battery production data to address a defect identification problem under class imbalance during Smart IT internship in AI&Big Data department
-  
+
+<!---
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -59,7 +60,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 
   
 Honors and Awards
