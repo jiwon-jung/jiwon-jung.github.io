@@ -1,6 +1,6 @@
 ---
 title: "Threshold Overnight Comovement Analysis of Intraday and Overnight Returns"
-authors: "Jiwon Jung, Kiseop Lee, Tim Leung (2024). "
+authors: "Jiwon Jung, Kiseop Lee, Tim Leung (2025). "
 collection: publications
 category: manuscripts  
 date: 2025-09-08
