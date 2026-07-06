@@ -1,5 +1,5 @@
 ---
-title: "Instructor, Statistics"
+title: "Statistics Instructor"
 collection: teaching
 permalink: /teaching/teaching-ta2
 venue: "Purdue University, Department of Statistics"   
