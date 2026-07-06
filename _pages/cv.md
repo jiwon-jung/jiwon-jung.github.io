@@ -20,21 +20,29 @@ Education
 
 Professional experience
 ======
+* University of Washington, Department of Applied Mathematics: Sep. 2025 - Present
+  * Role: Pearson Fellow/Acting Instructor
+  * Duties include: Teach CFRM courses in quantitative finance, machine learning for finance, R programming, and financial signal processing.
+
+* Purdue University, Department of Statistics: Jan. 2025 - Aug. 2025
+  * Role: Visiting Assistant Professor
+  * Duties include: Taught statistical inference and multiple sections of elementary statistics, including online and Indianapolis sections. 
+
 * VivityAI: 2022 - 2024
   * Data Analyst — Seoul, Korea (remote)
-  * Duties includes: Develop AI predictive models to improve the quality of smart factory manufacturing system (academia-industry collaboration)
+  * Duties include: Develop AI predictive models to improve the quality of smart factory manufacturing system (academia-industry collaboration)
   * Supervisor: Prof. Kiseop Lee
 
 * Asan Medical Center: 2019 - 2020
   * Research Assistant — Seoul, Korea
-  * Duties included: Proposed efficient deep learning algorithms for classification and segmentation tasks in pathology image analysis
+  * Duties include: Proposed efficient deep learning algorithms for classification and segmentation tasks in pathology image analysis
   * Supervisor: Prof. Chan-sik Park and Prof. Jin Roh
 
 * LG CNS: Winter 2018
   * Smart Factory Intern — Seoul, Korea
-  * Duties included: Analyzed LG Innotek battery production data to address a defect identification problem under class imbalance during Smart IT internship in AI&Big Data department
+  * Duties include: Analyzed LG Innotek battery production data to address a defect identification problem under class imbalance during Smart IT internship in AI&Big Data department
 
-<!---
+%<!---
   
 Publications
 ======
@@ -55,13 +63,13 @@ Teaching
   {% endfor %}</ul>
 
 
--->
+%-->
 
   
 Honors and Awards
 ======
 * Academic Honors
-  * Department nomination of IBM PhD Fellowship Awards (pending; August 2024)
+  * Department nomination of IBM PhD Fellowship Awards (August 2024)
   * Outstanding Teaching Award for Teaching Assistant, Purdue University (April 2024)
   * Recognition Award for Efficiency Improvements, Purdue University (April 2024)
   * Graduate Student Instructor scholarship, Seoul National University (Fall 2018)
@@ -69,7 +77,7 @@ Honors and Awards
 * Travel Grants
   * ASA 2024, CEPAR 2023, SIAM 2023, WISP 2022, Emily and Paul Kidwell Graduate Student Excellent Award 2022
  
-Service and leadership
+Service
 ======
 * Session Organizer
   * Co-organized an invited session “Data-Driven Methods in Financial Markets” at JSM 2024, Portland, Oregon August 2024
