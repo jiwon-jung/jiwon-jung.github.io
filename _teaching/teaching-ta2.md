@@ -2,8 +2,7 @@
 title: "Instructor"
 collection: teaching
 permalink: /teaching/teaching-ta2
-venue: "Purdue University, Department of Statistics"  
-syllabus: "http://jiwon-jung.github.io/files/stat301_syllabus.pdf" 
+venue: "Purdue University, Department of Statistics"   
 ---
 
 * STAT 517: Statistical Inference (Summer 2025)
