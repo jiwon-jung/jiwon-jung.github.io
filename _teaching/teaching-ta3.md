@@ -5,7 +5,7 @@ permalink: /teaching/teaching-ta3
 venue: "University of Washington, Department of Applied Mathematics"   
 ---
 
-University of Washington, Department of Applied Mathematics: *Computational Finance and Risk Management (CFRM) Program*
+<b>University of Washington, Department of Applied Mathematics:</b> *Computational Finance and Risk Management (CFRM) Program*
 * CFRM 405: Mathematical Methods for Quantitative Finance (Fall 2025; Fall 2026 scheduled)
   * Lectured on analytical and computational methods used in financial modeling, with emphasis on problem solving and applications to quantitative finance; 90 students
 * CFRM 521: Machine Learning for Finance (Spring 2026)
