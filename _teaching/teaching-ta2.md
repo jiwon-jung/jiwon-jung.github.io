@@ -4,7 +4,7 @@ permalink: /teaching/teaching-ta2
 venue: "Purdue University, Department of Statistics"   
 ---
 
-Purdue University, Department of Statistics
+<b>Purdue University, Department of Statistics<\b>
 * STAT 517: Statistical Inference (Summer 2025)
   * Delivered an online graduate course to 60 students
     
