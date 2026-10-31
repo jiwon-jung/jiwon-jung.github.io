@@ -1,6 +1,6 @@
 ---
 title: "Modeling the Interactions Between Zero-Day Options and Underlying Markets Using Joint Limit Order Book Data"
-authors: "Jiwon Jung, Kiseop Lee, Tim Leung (2025). "
+authors: "Jiwon Jung, Tim Leung (2026). "
 collection: publications
 category: preprints  
 date: 2026-10-08
